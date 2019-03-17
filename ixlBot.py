@@ -1,6 +1,7 @@
 # Output Code For IXL D.1 First Grade Level
 # Make Sure To Have The Ixl Tab, Glitch Editor Tab, Then The Glitch Output Tab. (In The That Order)
 # Also Make Sure That The Glitch Editor document.write Is Blank
+#Don't Use This, It Is Crap
 import time
 
 import pyautogui
